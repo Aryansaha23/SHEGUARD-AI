@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+build/
+.env
+.env.*
+!.env.example
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+*.jks
+*.apk
+*.aab
+.DS_Store

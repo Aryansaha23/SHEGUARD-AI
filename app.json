@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SHEGUARD AI",
+    "slug": "sheguard-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "scheme": "sheguardai",
+
+    "android": {
+      "package": "com.anonymous.sheguardai"
+    },
+
+    "plugins": [
+      "expo-font",
+      "expo-image",
+      "expo-router",
+      "expo-splash-screen",
+      "expo-status-bar",
+      "expo-web-browser"
+    ]
+  }
+}
